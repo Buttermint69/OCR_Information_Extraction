@@ -9,8 +9,9 @@ https://github.com/Buttermint69/OCR_Information_Extraction/blob/master/img.png
 The image is pre-processed with opencv tool for reducing the noise and amplifying the pixels. Various experimentations are performed and then selected the best technique [erosion-dilation] for the problem.
 
 Extracted text bounding box -
+
 ![image](https://user-images.githubusercontent.com/78033216/172024365-d52e0d09-871b-4ccd-b393-983cb3802954.png)
 
 Furthermore, the extracted text processing into pandas Dataframe object.
 
-                                                                            ----Harshit Tiwari
+                                                                                                                      -- Harshit Tiwari
